@@ -8,3 +8,6 @@ left:
 output:
   html_document:
     theme: yeti
+  embed-resources: true
+    
+output_dir: "/Users/victorporcelli/Documents/website_code/my-website/"
