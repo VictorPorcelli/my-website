@@ -1,0 +1,20 @@
+name: "my-website"
+exclude: ["download", "libs"]
+output_dir: "." ## for making website hostable on github with jekyll
+navbar:
+  title: "Victor Porcelli"
+  right:
+    - icon: fa-github fa-lg
+      href: "https://github.com/VictorPorcelli/"
+    - icon: fa-twitter fa-lg
+      href: "https://twitter.com/victor_porcelli?lang=en"
+    - icon: fa-linkedin fa-lg
+      href: "https://www.linkedin.com/in/victor-porcelli-4a6a28147/"
+  left:
+    - text: "About"
+      href: about.html
+
+output:
+  html_document:
+    theme: sandstone
+    css: style.css

@@ -1,0 +1,9 @@
+---
+title: "About Me"
+output:
+  html_document
+---
+
+My name is Victor Porcelli. I am a Technical Research Analyst at MDRC, a non-profit dedicated to the study of policies and programs that affect people with low incomes. More specifically, I work in MDRC's Families and Children policy area, which focuses on policies and programs that affect families with low incomes. Much of my work pertains to early childhood education, with research topics spanning from curriculum testing to workforce development.
+
+Before coming to MDRC, I received my Bachelor's degree (cum laude) from NYU in Public Policy, with a minor in Journalism and Economics and my Master's in Public Administration, also from NYU. My MPA's specialization was Public Policy with a "focus area" in Data Science. 

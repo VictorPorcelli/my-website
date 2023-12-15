@@ -1,0 +1,32 @@
+---
+title: "Welcome"
+output:
+  html_document
+---
+
+<div style="width: 400px; height: auto; float: left; margin-right: 40px; margin-top: 80px;">
+![](homepage_photo.png)
+</div>
+<div style="font-size: 25px; margin-left: 440px; margin-top: 60px;">
+Victor Porcelli is a Technical Research Analyst at MDRC. In his work, he supports research of programs and policies which affect families with low-incomes by cleansing, processing, and analyzing data.
+
+As a programmer and policy wonk, Victor is passionate about being part of a push for more evidence-based policy. He primary codes in R although he has knowledge of a variety of coding languages (SQL, Python, css, html, Stata). Fun fact: he built this entire website using R.
+</div>
+
+<div style="margin-top: 100px;">
+<div class="col-md-6", style="font-size: 35px; font-weight: bold;">
+Experience
+</div>
+<div class="col-md-6">
+Testing 123Testing 123Testing 123Testing 123Testing 123Testing 123Testing 123Testing 123Testing 123Testing 123Testing 123Testing 123Testing 123Testing 123Testing 123Testing 123Testing 123Testing 123Testing 123Testing 123Testing 123Testing 123Testing 123Testing 123Testing 123Testing 123Testing 123Testing 123Testing 123Testing 123
+</div>
+</div>
+
+<div style="margin-top: 600px;">
+<div class="col-md-6", style="font-size: 35px; font-weight: bold;">
+Skills
+</div>
+<div class="col-md-6">
+Testing 123Testing 123Testing 123Testing 123Testing 123Testing 123Testing 123Testing 123Testing 123Testing 123Testing 123Testing 123Testing 123Testing 123Testing 123Testing 123Testing 123Testing 123Testing 123Testing 123Testing 123Testing 123Testing 123Testing 123Testing 123Testing 123Testing 123Testing 123Testing 123Testing 123
+</div>
+</div>

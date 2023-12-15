@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+JP:wght@300&display=swap');
+
+/*------------- Whole Document---------------- */
+
+body {
+    font-family: 'Noto Serif JP', serif;
+    font-size: 19px;
+    background-color: #FC8E5C;
+    color: #250001
+}
+
+/*------------- Navigation Bar ---------------- */
+/* general navigation bar style */
+.navbar {
+  background-color: #250001;
+  color: #FC8E5C;
+  border-bottom: 3px solid white;
+}
+/* style of buttons */
+.navbar-nav > li > a,
+/* style of buttons when hovered */
+.navbar-nav > li > a:hover,
+/* style of title */
+.navbar-brand,
+/* style of buttons when active */
+.navbar-nav > li.active > a {
+  background-color: #250001 !important;
+  color: #FC8E5C !important;
+}
