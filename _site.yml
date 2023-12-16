@@ -10,9 +10,13 @@ navbar:
       href: "https://twitter.com/victor_porcelli?lang=en"
     - icon: fa-linkedin fa-lg
       href: "https://www.linkedin.com/in/victor-porcelli-4a6a28147/"
+    - text: "Contact Me"
+      href: contact.html
   left:
-    - text: "About"
+    - text: "About Me"
       href: about.html
+    - text: "My Work"
+      href: work.html
 
 output:
   html_document:

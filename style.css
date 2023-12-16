@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Noto+Serif+JP:wght@300&display=swap');
 
+
 /*------------- Whole Document---------------- */
 
 body {
@@ -26,4 +27,27 @@ body {
 .navbar-nav > li.active > a {
   background-color: #250001 !important;
   color: #FC8E5C !important;
+}
+
+/* Links */
+/* Default link style */
+a {
+  color: #F7F3E3; /* Link color */
+  text-decoration: none; /* Remove underline */
+}
+
+/* Style for visited links */
+a:visited {
+  color: #561F37; /* Visited link color */
+}
+
+/* Style for hover (mouse-over) */
+a:hover {
+  color: #F7F3E3; /* Hover link color */
+  text-decoration: underline; /* Underline on hover */
+}
+
+/* Style for active links (when clicked) */
+a:active {
+  color: #250001 !important; /* Active link color */
 }
