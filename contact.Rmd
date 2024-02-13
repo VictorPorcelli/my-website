@@ -4,42 +4,9 @@ output:
   html_document
 ---
 
-To contact me, fill out the form below.
+Got a cool R project your working on? Want to talk about early childhood education? Just think I'm a nifty guy you want to connect with?
 
-```{=html}
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Contact Form</title>
-    <link rel="stylesheet" href="styles.css">
-</head>
-<body>
-    <div class="container">
-        <div class="right">
-            <form action="process_form.R" method="post">
-                <br></br>
-                <label for="fname">First Name (required)</label>
-                <input type="text" id="fname" name="fname" required>
-                <br></br>
-                <label for="lname">Last Name (required)&nbsp;</label>
-                <input type="text" id="lname" name="lname" required>
-                <br></br>
-                <label for="email">Email (required)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</label>
-                <input type="email" id="email" name="email" required>
-                <br></br>
-                <label for="message">Message (required) </label>
-                <br></br>
-                <textarea id="message" name="message" rows="5" cols= "45" required></textarea>
-                <br></br>
-                <input type="submit" value="Send">
-            </form>
-        </div>
-    </div>
-</body>
-<br></br>
-</html>
-```
+Email me at: [victorjporcelli@gmail.com](mailto:victorjporcelli@gmail.com)
 
 Feel free to connect with me on social media as well via the links below.
 

@@ -10,7 +10,7 @@ output:
 <div style="font-size: 25px; margin-left: 440px; margin-top: 60px;">
 Victor Porcelli is a Technical Research Analyst at MDRC. In his work, he supports research of programs and policies which affect families with low-incomes by cleansing, processing, and analyzing data.
 
-As a programmer and policy wonk, Victor is passionate about being part of a push for more evidence-based policy. He primary codes in R although he has knowledge of a variety of coding languages (SQL, Python, css, html, Stata). Fun fact: he built this entire website using R.
+As a programmer and policy wonk, Victor is passionate about being part of a push for more evidence-based policy. He primary codes in R although he has knowledge of a variety of coding languages (SQL, Python, css, html, Stata). Fun fact: this website was written in R.
 </div>
 
 <div style="margin-top: 100px;">
@@ -18,7 +18,7 @@ As a programmer and policy wonk, Victor is passionate about being part of a push
 Experience
 </div>
 <div class="col-md-6">
-Victor has worked at MDRC since June of 2022. Before working at MDRC, Victor worked with NYC-based non-profits Citizens Union and the Housing Rights Initiative fighting for election transparency and tenant advocacy, respectively. He also has experience reporting about New York City politics and policy for Gotham Gazette and Brooklyn Daily Eagle and interning for the most-watched cable news show at the time, The Rachel Maddow Show.
+Victor has worked at MDRC since June of 2022. Before working at MDRC, Victor worked with NYC-based non-profits Citizens Union and the Housing Rights Initiative fighting for election transparency and tenant advocacy, respectively. He also has experience reporting about New York City politics and policy for Gotham Gazette and Brooklyn Daily Eagle, and interning for the most-watched cable news show at the time, The Rachel Maddow Show.
 </div>
 </div>
 
@@ -29,7 +29,7 @@ Skills
 <div class="col-md-6">
 - Expert in R coding for data cleansing, analysis, and visualization
 - Published author in both journalistic and research-focused publications
-- Proficient in other coding languages including Python (pandas), STATA, SAS, html, css
+- Proficient in other coding languages including Python (pandas), Stata, SAS, html, css
 - Expert in Excel (macros, pivot tables, VLOOKUP)
 </div>
 </div>
