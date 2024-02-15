@@ -1,15 +1,26 @@
 ---
-title: "Get in touch"
 output:
   html_document
 ---
 
+<div style="margin-top: 150px;">
+<div class="col-md-6", style="font-size: 35px; font-weight: bold;">
 Got a cool R project your working on? Want to talk about early childhood education? Just think I'm a nifty guy you want to connect with?
+</div>
+<div class="col-md-6", style="margin-top: 125px; font-size: 25px; text-align: center;">
 
-Email me at: [victorjporcelli@gmail.com](mailto:victorjporcelli@gmail.com)
+Email me at: <a href = mailto:victorjporcelli@gmail.com> victorjporcelli@gmail.com </a>
 
+</div>
+</div>
+
+<div style="margin-top: 500px;text-align: center;">
 Feel free to connect with me on social media as well via the links below.
 
+<div style="text-align: center;">
 <a href = https://github.com/VictorPorcelli/ target="_blank"><i class="fa fa-github fa-lg"></i></a> <!-- GitHub icon -->
 <a href = https://twitter.com/victor_porcelli?lang=en target="_blank"><i class="fa fa-twitter fa-lg"></i></a> <!-- Twitter icon -->
 <a href = https://www.linkedin.com/in/victor-porcelli-4a6a28147/ target="_blank"><i class="fa fa-linkedin fa-lg"></i></a> <!-- LinkedIn icon -->
+</div>
+
+</div>
