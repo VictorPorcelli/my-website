@@ -4,32 +4,28 @@ output:
   html_document
 ---
 
-<div style="width: 400px; height: auto; float: left; margin-right: 40px; margin-top: 80px;">
+<div style="width: 56%; height: auto; float: left; margin-right: 10%; margin-top: 0%;">
 ![](homepage_photo.png)
 </div>
-<div style="font-size: 25px; margin-left: 440px; margin-top: 85px;">
+<div style="font-size: 1.3em; margin-left: 65%; margin-top: 7%; width: 45%">
 Victor Porcelli is a Technical Research Analyst at MDRC. In his work, he supports research of programs and policies which affect families with low-incomes by cleansing, processing, and analyzing data.
 
 As a programmer and policy wonk, Victor is passionate about being part of a push for more evidence-based policy. He primary codes in R although he has knowledge of a variety of coding languages (SQL, Python, css, html, Stata). Fun fact: this website was written in R.
 </div>
 
-<div style="margin-top: 100px;">
-<div class="col-md-6", style="font-size: 35px; font-weight: bold;">
+<div style="font-size: 1.8em; font-weight: bold;margin-top: 15%">
 Experience
 </div>
-<div class="col-md-6", style="margin-top:20px;">
+<div style="margin-top:-5%;width:50%; margin-left: 50%">
 Victor has worked at MDRC since June of 2022. Before working at MDRC, Victor interned with NYC-based non-profits Citizens Union and the Housing Rights Initiative fighting for election transparency and tenant advocacy, respectively. He also has experience reporting about New York City politics and policy for Gotham Gazette and Brooklyn Daily Eagle, and interning for the most-watched cable news show (at the time), The Rachel Maddow Show.
 </div>
-</div>
 
-<div style="margin-top: 500px;">
-<div class="col-md-6", style="font-size: 35px; font-weight: bold;">
+<div style="font-size: 1.8em; font-weight: bold;margin-top:5%">
 Skills
 </div>
-<div class="col-md-6">
+<div style="width:50%;margin-left:50%;margin-top:-5%">
 - Expert in R coding for data cleansing, analysis, and visualization
 - Published author in both journalistic and research-focused publications
 - Proficient in other coding languages including Python (pandas), Stata, SAS, html, css
 - Expert in Excel (macros, pivot tables, VLOOKUP)
-</div>
 </div>

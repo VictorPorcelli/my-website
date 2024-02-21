@@ -3,24 +3,21 @@ output:
   html_document
 ---
 
-<div style="margin-top: 150px;">
-<div class="col-md-6", style="font-size: 35px; font-weight: bold;">
+<div style="width: 55%; font-size: 2em; font-weight: bold; margin-top: 10%;">
 Got a cool R project your working on? Want to talk about early childhood education? Just think I'm a nifty guy you want to connect with?
 </div>
-<div class="col-md-6", style="margin-top: 125px; font-size: 25px; text-align: center;">
+<div style="width: 50%; font-size: 25px; text-align: center; margin-left: 55%; margin-top: -21%;">
 
 Email me at: <a href = mailto:victorjporcelli@gmail.com> victorjporcelli@gmail.com </a>
 
 </div>
-</div>
 
-<div style="margin-top: 500px;text-align: center;">
+<div style="margin-top: 20%;text-align: center;">
 Feel free to connect with me on social media as well via the links below.
+</div>
 
 <div style="text-align: center;">
 <a href = https://github.com/VictorPorcelli/ target="_blank"><i class="fa fa-github fa-lg"></i></a> <!-- GitHub icon -->
 <a href = https://twitter.com/victor_porcelli?lang=en target="_blank"><i class="fa fa-twitter fa-lg"></i></a> <!-- Twitter icon -->
 <a href = https://www.linkedin.com/in/victor-porcelli-4a6a28147/ target="_blank"><i class="fa fa-linkedin fa-lg"></i></a> <!-- LinkedIn icon -->
-</div>
-
 </div>
