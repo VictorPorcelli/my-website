@@ -4,8 +4,8 @@ output:
   html_document
 ---
 
-<div style="width: 56%; height: auto; float: left; margin-right: 10%; margin-top: 0%;">
-![](homepage_photo.png)
+<div style="width: 50%; height: auto; float: left; margin-right: 10%; margin-top: 0%;">
+![](headshot.JPG)
 </div>
 <div style="font-size: 1.3em; margin-left: 65%; margin-top: 7%; width: 45%">
 Victor Porcelli is a Technical Research Analyst at MDRC. In his work, he supports research of programs and policies which affect families with low-incomes by cleansing, processing, and analyzing data.
