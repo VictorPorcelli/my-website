@@ -4,7 +4,7 @@ output:
 ---
 
 <div style="width: 55%; font-size: 2em; font-weight: bold; margin-top: 10%;">
-Got a cool R project your working on? Want to talk about early childhood education? Just think I'm a nifty guy you want to connect with?
+Got a cool R project you're working on? Want to talk about early childhood education? Just think I'm a nifty guy you want to connect with?
 </div>
 <div style="width: 50%; font-size: 25px; text-align: center; margin-left: 55%; margin-top: -21%;">
 
